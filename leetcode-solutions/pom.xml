@@ -10,5 +10,6 @@
     <module>average-salary-excluding-the-minimum-and-maximum-salary</module>
       <module>sign-of-the-product-of-an-array</module>
       <module>find-the-difference-of-two-arrays</module>
+      <module>add-two-numbers</module>
   </modules>
 </project>
